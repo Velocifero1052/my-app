@@ -1,5 +1,5 @@
-function Title(){
-    return <h2>Book title</h2>
+function Title(props){
+    return <h2>{props.title}</h2>
 }
 
 export default Title;

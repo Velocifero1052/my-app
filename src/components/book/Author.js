@@ -1,5 +1,7 @@
-function Author(){
-    return <h4>Author</h4>
+function Author(props){
+    return <h4 className={'author'}>
+        {props.author}
+    </h4>
 }
 
 export default Author;
