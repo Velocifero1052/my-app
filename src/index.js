@@ -13,7 +13,7 @@ const firstBook = {
 
 const secondBook = {
     id: 2,
-    image: './gift_of_done.jpg',
+    image: './finish.png',
     title : "Finish - give yourself the gift of done",
     author: "Jon Acuff"
 }
