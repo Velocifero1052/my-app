@@ -58,3 +58,8 @@ body{
     border-top-left-radius: 1rem;
     background: #c35600;
 }
+h1{
+    text-align: center;
+    margin-top: 4rem;
+    text-transform: capitalize;
+}
